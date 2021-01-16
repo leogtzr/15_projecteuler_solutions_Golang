@@ -1,0 +1,1 @@
+# 15_projecteuler_solutions_Golang
